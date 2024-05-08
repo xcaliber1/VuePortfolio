@@ -1,0 +1,20 @@
+{
+    "home": {
+      "description": "I'm a passionate developer with skills in JavaScript, Vue.js, HTML, CSS, and Laravel. I love building web applications and exploring new technologies."
+    },
+    "sports": {
+      "description": "In my free time, I enjoy playing basketball and hiking in the mountains. Staying active is important to me."
+    },
+    "movies_music": {
+      "movies": ["Inception", "The Shawshank Redemption", "The Dark Knight"],
+      "music": ["Coldplay", "Ed Sheeran", "Imagine Dragons"]
+    },
+    "languages": {
+      "favorites": ["JavaScript", "Python", "Java", "Php"]
+    },
+    "contacts": {
+      "email": "andrewferrer37@gmail.com",
+      "phone": "+1234567890"
+    }
+  }
+  
